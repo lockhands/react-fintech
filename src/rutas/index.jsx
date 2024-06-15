@@ -2,7 +2,6 @@
 import { createBrowserRouter } from 'react-router-dom';
 import Home from './Home/Home';
 import MultiStep from './SignUp/MultiStep';
-import FirstStep from './SignUp/Steps/FirstStep';
 import LoginScreen from './LogIn/LogIn';
 import HomeCliente from './Cliente/Home/HomeCliente';
 
